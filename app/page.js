@@ -4,9 +4,6 @@ import { collection, addDoc, getDoc, querySnapshot,query,onSnapshot,deleteDoc,do
 import {db} from'./firebase'
 export default function Home() {
   const [items,setItems]=useState([
-   // {name:'Coffee',price:4.95},
-   // {name:'Chocolate',price:4.95},
-   // {name:'Candy',price:7.95}
   ]);
   const [newItem,setNewItem]=useState({name:'',price:''});
   const [total,setTotal]=useState(0);
