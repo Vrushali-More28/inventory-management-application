@@ -1,6 +1,6 @@
-# Pantry Tracker
+# Pantry Inventory Tracker
 
-Pantry Tracker is a simple application that allows users to keep track of their pantry items, including the item name and price. Users can add new items, view the list of items, and delete items. The frontend is built using Next.js, and the backend utilizes Firebase for the database.
+Pantry Inventory Tracker is a simple application that allows users to keep track of their pantry items, including the item name and price. Users can add new items, view the list of items, and delete items. The frontend is built using Next.js, and the backend utilizes Firebase for the database.
 
 ## Features
 
